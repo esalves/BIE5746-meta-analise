@@ -2,7 +2,7 @@
 Disciplina do Programa de Pós-Graduação em Ecologia do Instituto de Biociências da USP
 
 ### Equipe
-- Professor: Eduardo Santos, Dept. Zoologia 
+- Professor: [Eduardo Santos](http://eduardosantos-lab.weebly.com), Dept. Zoologia 
 - Monitor: a definir
 
 ### Aulas
