@@ -10,7 +10,7 @@ Quando tive a ideia de criar esta disciplina, pensei que seria útil para alunos
 ### Aulas
 - Período: 04-15/12/2017
 - Dias: Seg/Qua/Sex
-- Horário: 09-17h
+- Horário: 09-17h <!--Teremos um total de +/- 5 horas de curso por dia. Planejar atividades com essa carga horária em mente.-->
 
 ***
 
