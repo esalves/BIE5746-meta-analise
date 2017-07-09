@@ -1,15 +1,15 @@
 [INCLUDE=presentation]
-Title         : Demo presentation in Madoko
-Sub Title     : In both HTML and PDF
-Author        : Daan Leijen
-Affiliation   : Microsoft Research
-Email         : daan@microsoft.com
-Reveal Theme  : sky
+Title         : Apresentação da disciplina
+Sub Title     : 
+Author        : Eduardo S.A. Santos
+Affiliation   : Departamento de Zoologia
+Email         : e.salves@gmail.com
+Reveal Theme  : simple
 Beamer Theme  : singapore
 
 [TITLE]
 
-# Content
+# Conteúdo
 
 [TOC]
 
