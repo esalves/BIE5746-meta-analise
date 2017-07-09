@@ -11,3 +11,9 @@ Disciplina do Programa de Pós-Graduação em Ecologia do Instituto de Biociênc
 - Horário: 09-17h
 
 ### [Cronograma](cronograma)
+
+### [Bibliografia & Material](material)
+
+### [Aulas](aulas)
+
+### [Notas](notas)
