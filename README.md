@@ -20,4 +20,6 @@ Quando tive a ideia de criar esta disciplina, pensei que seria útil para alunos
 
 ### [Aulas](aulas)
 
+### [Forum](forum)
+
 ### [Notas](notas)
